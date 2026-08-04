@@ -1,0 +1,74 @@
+{
+  "channels": [
+    {
+      "id": "star-plus",
+      "name": "Star Plus",
+      "category": "Entertainment",
+      "logo": "https://dummyimage.com/200x200/e11d2e/ffffff.png&text=Star+Plus",
+      "background": "https://dummyimage.com/800x450/0b1220/1a2340.png&text=Star+Plus",
+      "status": "LIVE",
+      "streamType": "hls",
+      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "drm": null
+    },
+    {
+      "id": "colors-hd",
+      "name": "Colors HD",
+      "category": "Entertainment",
+      "logo": "https://dummyimage.com/200x200/8b5cf6/ffffff.png&text=Colors",
+      "background": "https://dummyimage.com/800x450/0b1220/1a2340.png&text=Colors+HD",
+      "status": "LIVE",
+      "streamType": "hls",
+      "streamUrl": "https://test-streams.mux.dev/test_001/stream.m3u8",
+      "drm": null
+    },
+    {
+      "id": "aaj-tak",
+      "name": "Aaj Tak",
+      "category": "News",
+      "logo": "https://dummyimage.com/200x200/ef4444/ffffff.png&text=Aaj+Tak",
+      "background": "https://dummyimage.com/800x450/0b1220/1a2340.png&text=Aaj+Tak",
+      "status": "LIVE",
+      "streamType": "hls",
+      "streamUrl": "https://test-streams.mux.dev/pts_shift/master.m3u8",
+      "drm": null
+    },
+    {
+      "id": "ndtv-24x7",
+      "name": "NDTV 24x7",
+      "category": "News",
+      "logo": "https://dummyimage.com/200x200/1a73e8/ffffff.png&text=NDTV",
+      "background": "https://dummyimage.com/800x450/0b1220/1a2340.png&text=NDTV+24x7",
+      "status": "UPCOMING",
+      "streamType": "dash",
+      "streamUrl": "https://media.axprod.net/TestVectors/v7-MultiDRM-SingleKey/Manifest_ClearKey.mpd",
+      "drm": {
+        "type": "clearkey",
+        "keyId": "6d21e5d4d61b4b7b8a6f5c5c5a4e3d2f",
+        "key": "8f3d6b1c0a9e4f2b8d7c6a5e4f3d2c1b"
+      }
+    },
+    {
+      "id": "sony-max",
+      "name": "Sony Max",
+      "category": "Movies",
+      "logo": "https://dummyimage.com/200x200/fbbc04/000000.png&text=Sony+Max",
+      "background": "https://dummyimage.com/800x450/0b1220/1a2340.png&text=Sony+Max",
+      "status": "LIVE",
+      "streamType": "hls",
+      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "drm": null
+    },
+    {
+      "id": "cartoon-network",
+      "name": "Cartoon Network",
+      "category": "Kids",
+      "logo": "https://dummyimage.com/200x200/34a853/ffffff.png&text=CN",
+      "background": "https://dummyimage.com/800x450/0b1220/1a2340.png&text=Cartoon+Network",
+      "status": "LIVE",
+      "streamType": "hls",
+      "streamUrl": "https://test-streams.mux.dev/test_001/stream.m3u8",
+      "drm": null
+    }
+  ]
+}
