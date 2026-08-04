@@ -36,7 +36,7 @@
     {
       "id": "music-india",
       "name": "Music India",
-      "category": "News",
+      "category": "Music",
       "logo": "https://dummyimage.com/200x200/ef4444/ffffff.png&text=Music+India",
       "background": "https://pbs.twimg.com/profile_images/618036953/music_india_400x400.png",
       "status": "LIVE",
@@ -45,9 +45,31 @@
       "drm": null
     },
     {
-      "id": "ndtv-24x7",
-      "name": "NDTV 24x7",
-      "category": "News",
+      "id": "zoom",
+      "name": "Zoom",
+      "category": "Music",
+      "logo": "https://dummyimage.com/200x200/fbbc04/000000.png&text=Zoom",
+      "background": "https://yt3.googleusercontent.com/ytc/AIdro_m_uBPKUYDiKVEegmqABzX_IRoDYwaYyhoXO80WOgmvUr3x=s900-c-k-c0x00ffffff-no-rj",
+      "status": "LIVE",
+      "streamType": "hls",
+      "streamUrl": "https://dai.google.com/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8",
+      "drm": null
+    },
+    {
+      "id": "saga-music",
+      "name": "Saga-Music",
+      "category": "Music",
+      "logo": "https://dummyimage.com/200x200/fbbc04/000000.png&text=Saga+Music",
+      "background": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDESekyEVwd-2kmUQjL9qxfTzhM9FQ2vTAdG9nkUTCFZ931-pgiBqTGMk&s=10",
+      "status": "LIVE",
+      "streamType": "hls",
+      "streamUrl": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8",
+      "drm": null
+    },
+    {
+      "id": "mtv",
+      "name": "MTV Beats",
+      "category": "Hindi",
       "logo": "https://dummyimage.com/200x200/1a73e8/ffffff.png&text=NDTV",
       "background": "https://dummyimage.com/800x450/0b1220/1a2340.png&text=NDTV+24x7",
       "status": "UPCOMING",
@@ -59,26 +81,27 @@
         "key": "8f3d6b1c0a9e4f2b8d7c6a5e4f3d2c1b"
       }
     },
+    
     {
-      "id": "sony-max",
-      "name": "Sony Max",
-      "category": "Movies",
-      "logo": "https://dummyimage.com/200x200/fbbc04/000000.png&text=Sony+Max",
-      "background": "https://dummyimage.com/800x450/0b1220/1a2340.png&text=Sony+Max",
+      "id": "7x-music",
+      "name": "7x Music",
+      "category": "Music",
+      "logo": "https://dummyimage.com/200x200/34a853/ffffff.png&text=7x+Music",
+      "background": "https://bx-tv.com/wp-content/uploads/2022/11/7x-music-Punjabi.jpg",
       "status": "LIVE",
       "streamType": "hls",
-      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "streamUrl": "https://cdn2.in/7xPunjabihls/live.m3u8",
       "drm": null
     },
     {
-      "id": "cartoon-network",
-      "name": "Cartoon Network",
-      "category": "Kids",
-      "logo": "https://dummyimage.com/200x200/34a853/ffffff.png&text=CN",
-      "background": "https://dummyimage.com/800x450/0b1220/1a2340.png&text=Cartoon+Network",
+      "id": "aaj-tak",
+      "name": "Aaj Tak",
+      "category": "News",
+      "logo": "https://dummyimage.com/200x200/34a853/ffffff.png&text=Aaj+Tak",
+      "background": "https://m.media-amazon.com/images/I/71b-fSdQC0L.png",
       "status": "LIVE",
       "streamType": "hls",
-      "streamUrl": "https://test-streams.mux.dev/test_001/stream.m3u8",
+      "streamUrl": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8",
       "drm": null
     }
   ]
