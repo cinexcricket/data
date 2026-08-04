@@ -1,0 +1,141 @@
+{
+  "matches": [
+    {
+      "id": "cric-ind-pak-2026",
+      "sport": "Cricket",
+      "title": "India vs Pakistan",
+      "subtitle": "ICC Tournament \u2022 Group Stage",
+      "teamA": { "name": "India", "shortCode": "IND", "logo": "https://dummyimage.com/120x120/1a73e8/ffffff.png&text=IND" },
+      "teamB": { "name": "Pakistan", "shortCode": "PAK", "logo": "https://dummyimage.com/120x120/0f9d58/ffffff.png&text=PAK" },
+      "poster": "https://dummyimage.com/800x450/111827/ffffff.png&text=IND+vs+PAK",
+      "status": "LIVE",
+      "startTime": "2026-08-02T14:00:00Z",
+      "channels": [
+        {
+          "id": "ind-pak-ch1",
+          "name": "Star Sports 1",
+          "language": "English",
+          "streamType": "hls",
+          "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "drm": null
+        },
+        {
+          "id": "ind-pak-ch2",
+          "name": "Star Sports 1 Hindi",
+          "language": "Hindi",
+          "streamType": "hls",
+          "streamUrl": "https://test-streams.mux.dev/test_001/stream.m3u8",
+          "drm": null
+        },
+        {
+          "id": "ind-pak-ch3",
+          "name": "Star Sports Select",
+          "language": "English",
+          "streamType": "hls",
+          "streamUrl": "https://test-streams.mux.dev/pts_shift/master.m3u8",
+          "drm": null
+        }
+      ]
+    },
+    {
+      "id": "cric-aus-eng-2026",
+      "sport": "Cricket",
+      "title": "Australia vs England",
+      "subtitle": "The Ashes \u2022 3rd Test",
+      "teamA": { "name": "Australia", "shortCode": "AUS", "logo": "https://dummyimage.com/120x120/fbbc04/000000.png&text=AUS" },
+      "teamB": { "name": "England", "shortCode": "ENG", "logo": "https://dummyimage.com/120x120/db4437/ffffff.png&text=ENG" },
+      "poster": "https://dummyimage.com/800x450/111827/ffffff.png&text=AUS+vs+ENG",
+      "status": "UPCOMING",
+      "startTime": "2026-08-03T04:30:00Z",
+      "channels": [
+        {
+          "id": "aus-eng-ch1",
+          "name": "Fox Cricket (ClearKey Demo)",
+          "language": "English",
+          "streamType": "dash",
+          "streamUrl": "https://media.axprod.net/TestVectors/v7-MultiDRM-SingleKey/Manifest_ClearKey.mpd",
+          "drm": {
+            "type": "clearkey",
+            "keyId": "6d21e5d4d61b4b7b8a6f5c5c5a4e3d2f",
+            "key": "8f3d6b1c0a9e4f2b8d7c6a5e4f3d2c1b"
+          }
+        }
+      ]
+    },
+    {
+      "id": "football-real-barca-2026",
+      "sport": "Football",
+      "title": "Real Madrid vs Barcelona",
+      "subtitle": "La Liga \u2022 El Cl\u00e1sico",
+      "teamA": { "name": "Real Madrid", "shortCode": "RMA", "logo": "https://dummyimage.com/120x120/ffffff/1a1a1a.png&text=RMA" },
+      "teamB": { "name": "Barcelona", "shortCode": "BAR", "logo": "https://dummyimage.com/120x120/a50044/ffffff.png&text=BAR" },
+      "poster": "https://dummyimage.com/800x450/111827/ffffff.png&text=RMA+vs+BAR",
+      "status": "UPCOMING",
+      "startTime": "2026-08-04T18:00:00Z",
+      "channels": [
+        {
+          "id": "rma-bar-ch1",
+          "name": "beIN Sports 1",
+          "language": "English",
+          "streamType": "hls",
+          "streamUrl": "https://test-streams.mux.dev/pts_shift/master.m3u8",
+          "drm": null
+        },
+        {
+          "id": "rma-bar-ch2",
+          "name": "beIN Sports Espa\u00f1ol",
+          "language": "Spanish",
+          "streamType": "hls",
+          "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "drm": null
+        }
+      ]
+    },
+    {
+      "id": "kabaddi-mumbai-bengal-2026",
+      "sport": "Kabaddi",
+      "title": "Mumbai vs Bengal",
+      "subtitle": "Pro Kabaddi League \u2022 Match 42",
+      "teamA": { "name": "Mumbai", "shortCode": "MUM", "logo": "https://dummyimage.com/120x120/f4b400/000000.png&text=MUM" },
+      "teamB": { "name": "Bengal", "shortCode": "BEN", "logo": "https://dummyimage.com/120x120/4285f4/ffffff.png&text=BEN" },
+      "poster": "https://dummyimage.com/800x450/111827/ffffff.png&text=MUM+vs+BEN",
+      "status": "LIVE",
+      "startTime": "2026-08-02T13:00:00Z",
+      "channels": [
+        {
+          "id": "mum-ben-ch1",
+          "name": "Star Sports Pro Kabaddi",
+          "language": "Hindi",
+          "streamType": "hls",
+          "streamUrl": "https://test-streams.mux.dev/test_001/stream.m3u8",
+          "drm": null
+        }
+      ]
+    },
+    {
+      "id": "badminton-finals-2026",
+      "sport": "Badminton",
+      "title": "Men's Singles Final",
+      "subtitle": "World Championships \u2022 Final",
+      "teamA": { "name": "Player A", "shortCode": "PLA", "logo": "https://dummyimage.com/120x120/34a853/ffffff.png&text=A" },
+      "teamB": { "name": "Player B", "shortCode": "PLB", "logo": "https://dummyimage.com/120x120/ea4335/ffffff.png&text=B" },
+      "poster": "https://dummyimage.com/800x450/111827/ffffff.png&text=Badminton+Final",
+      "status": "UPCOMING",
+      "startTime": "2026-08-05T10:00:00Z",
+      "channels": [
+        {
+          "id": "badminton-ch1",
+          "name": "BWF TV (ClearKey Demo)",
+          "language": "English",
+          "streamType": "dash",
+          "streamUrl": "https://media.axprod.net/TestVectors/v7-MultiDRM-SingleKey/Manifest_ClearKey.mpd",
+          "drm": {
+            "type": "clearkey",
+            "keyId": "6d21e5d4d61b4b7b8a6f5c5c5a4e3d2f",
+            "key": "8f3d6b1c0a9e4f2b8d7c6a5e4f3d2c1b"
+          }
+        }
+      ]
+    }
+  ]
+}
