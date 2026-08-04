@@ -1,0 +1,74 @@
+{
+  "channels": [
+    {
+      "id": "star-sports-1",
+      "name": "Star Sports 1",
+      "category": "Cricket",
+      "logo": "https://dummyimage.com/200x200/1a73e8/ffffff.png&text=SS1",
+      "background": "https://dummyimage.com/800x450/0b1220/1a2340.png&text=Star+Sports+1",
+      "status": "LIVE",
+      "streamType": "hls",
+      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "drm": null
+    },
+    {
+      "id": "star-sports-2",
+      "name": "Star Sports 2",
+      "category": "Cricket",
+      "logo": "https://dummyimage.com/200x200/0f9d58/ffffff.png&text=SS2",
+      "background": "https://dummyimage.com/800x450/0b1220/1a2340.png&text=Star+Sports+2",
+      "status": "LIVE",
+      "streamType": "hls",
+      "streamUrl": "https://test-streams.mux.dev/test_001/stream.m3u8",
+      "drm": null
+    },
+    {
+      "id": "sony-ten-2",
+      "name": "Sony Ten 2",
+      "category": "Football",
+      "logo": "https://dummyimage.com/200x200/db4437/ffffff.png&text=Ten2",
+      "background": "https://dummyimage.com/800x450/0b1220/1a2340.png&text=Sony+Ten+2",
+      "status": "LIVE",
+      "streamType": "hls",
+      "streamUrl": "https://test-streams.mux.dev/pts_shift/master.m3u8",
+      "drm": null
+    },
+    {
+      "id": "willow-hd",
+      "name": "Willow HD",
+      "category": "Cricket",
+      "logo": "https://dummyimage.com/200x200/fbbc04/000000.png&text=Willow",
+      "background": "https://dummyimage.com/800x450/0b1220/1a2340.png&text=Willow+HD",
+      "status": "UPCOMING",
+      "streamType": "dash",
+      "streamUrl": "https://media.axprod.net/TestVectors/v7-MultiDRM-SingleKey/Manifest_ClearKey.mpd",
+      "drm": {
+        "type": "clearkey",
+        "keyId": "6d21e5d4d61b4b7b8a6f5c5c5a4e3d2f",
+        "key": "8f3d6b1c0a9e4f2b8d7c6a5e4f3d2c1b"
+      }
+    },
+    {
+      "id": "dd-sports",
+      "name": "DD Sports",
+      "category": "Multi-sport",
+      "logo": "https://dummyimage.com/200x200/4285f4/ffffff.png&text=DD",
+      "background": "https://dummyimage.com/800x450/0b1220/1a2340.png&text=DD+Sports",
+      "status": "LIVE",
+      "streamType": "hls",
+      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "drm": null
+    },
+    {
+      "id": "eurosport-1",
+      "name": "Eurosport 1",
+      "category": "Multi-sport",
+      "logo": "https://dummyimage.com/200x200/34a853/ffffff.png&text=Euro1",
+      "background": "https://dummyimage.com/800x450/0b1220/1a2340.png&text=Eurosport+1",
+      "status": "UPCOMING",
+      "streamType": "hls",
+      "streamUrl": "https://test-streams.mux.dev/test_001/stream.m3u8",
+      "drm": null
+    }
+  ]
+}
