@@ -1,14 +1,14 @@
 {
   "channels": [
     {
-      "id": "star-plus",
-      "name": "Star Plus",
-      "category": "Entertainment",
+      "id": "yrf-music",
+      "name": "YRF Music",
+      "category": "Music",
       "logo": "https://dummyimage.com/200x200/e11d2e/ffffff.png&text=Star+Plus",
-      "background": "https://dummyimage.com/800x450/0b1220/1a2340.png&text=Star+Plus",
+      "background": "https://yt3.googleusercontent.com/nf15u1K12VXgBLh5HTf0asDF5Fc36RsUICRi8xY1Cs0QhAL_jmtW07wAUdRzrYDBKwv_KIa09Q=s900-c-k-c0x00ffffff-no-rj",
       "status": "LIVE",
       "streamType": "hls",
-      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "streamUrl": "https://amg01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.amagi.tv/playlist/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8",
       "drm": null
     },
     {
