@@ -12,14 +12,14 @@
       "drm": null
     },
     {
-      "id": "colors-hd",
-      "name": "Colors HD",
-      "category": "Entertainment",
+      "id": "9x-jalwa",
+      "name": "9x Jalwa",
+      "category": "Music",
       "logo": "https://dummyimage.com/200x200/8b5cf6/ffffff.png&text=Colors",
-      "background": "https://dummyimage.com/800x450/0b1220/1a2340.png&text=Colors+HD",
+      "background": "https://yt3.googleusercontent.com/ytc/AIdro_m6XPXFgtJwZtiGgJ8hAG8uYP64x3rXyAMCZq7vRlBCtss=w544-c-h544-k-c0x00ffffff-no-l90-rj",
       "status": "LIVE",
       "streamType": "hls",
-      "streamUrl": "https://test-streams.mux.dev/test_001/stream.m3u8",
+      "streamUrl": "https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8",
       "drm": null
     },
     {
