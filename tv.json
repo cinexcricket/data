@@ -8,7 +8,7 @@
       "background": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoi-fbFF8H025oAf7GB58BlU7tsrtG_EcmVqZCpz6xYIC18q9Gp_T5M2jA&s=10",
       "status": "Live",
       "streamType": "dash",
-      "streamUrl": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd",
+      "streamUrl": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd?|drmScheme=clearkey&drmLicense=f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1",
       "drm": {
         "type": "clearkey",
         "keyId": "f56beaac9f124616872c741c9ce4fa4e",
