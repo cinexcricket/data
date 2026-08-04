@@ -4,7 +4,7 @@
       "id": "yrf-music",
       "name": "YRF Music",
       "category": "Music",
-      "logo": "https://dummyimage.com/200x200/e11d2e/ffffff.png&text=Star+Plus",
+      "logo": "https://dummyimage.com/200x200/e11d2e/ffffff.png&text=YRF+Music",
       "background": "https://yt3.googleusercontent.com/nf15u1K12VXgBLh5HTf0asDF5Fc36RsUICRi8xY1Cs0QhAL_jmtW07wAUdRzrYDBKwv_KIa09Q=s900-c-k-c0x00ffffff-no-rj",
       "status": "LIVE",
       "streamType": "hls",
@@ -12,10 +12,21 @@
       "drm": null
     },
     {
+      "id": "b4u-music",
+      "name": "B4U Music",
+      "category": "Music",
+      "logo": "https://dummyimage.com/200x200/8b5cf6/ffffff.png&text=B4U+Music",
+      "background": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/e41d7120121fbc7f3fe1f07b30c737d2.png",
+      "status": "LIVE",
+      "streamType": "hls",
+      "streamUrl": "https://amg00877-amg00877c3-samsung-in-6976.playouts.now.amagi.tv/playlist/amg00877-b4unetworkeuropefast-b4umusic-samsungin/playlist.m3u8",
+      "drm": null
+    },
+    {
       "id": "9x-jalwa",
       "name": "9x Jalwa",
       "category": "Music",
-      "logo": "https://dummyimage.com/200x200/8b5cf6/ffffff.png&text=Colors",
+      "logo": "https://dummyimage.com/200x200/8b5cf6/ffffff.png&text=9x+Jalwa",
       "background": "https://yt3.googleusercontent.com/ytc/AIdro_m6XPXFgtJwZtiGgJ8hAG8uYP64x3rXyAMCZq7vRlBCtss=w544-c-h544-k-c0x00ffffff-no-l90-rj",
       "status": "LIVE",
       "streamType": "hls",
@@ -23,14 +34,14 @@
       "drm": null
     },
     {
-      "id": "aaj-tak",
-      "name": "Aaj Tak",
+      "id": "music-india",
+      "name": "Music India",
       "category": "News",
-      "logo": "https://dummyimage.com/200x200/ef4444/ffffff.png&text=Aaj+Tak",
-      "background": "https://dummyimage.com/800x450/0b1220/1a2340.png&text=Aaj+Tak",
+      "logo": "https://dummyimage.com/200x200/ef4444/ffffff.png&text=Music+India",
+      "background": "https://pbs.twimg.com/profile_images/618036953/music_india_400x400.png",
       "status": "LIVE",
       "streamType": "hls",
-      "streamUrl": "https://test-streams.mux.dev/pts_shift/master.m3u8",
+      "streamUrl": "https://amg00416-amg00416c5-samsung-in-3259.playouts.now.amagi.tv/playlist/amg00416-travelxp-musicindia-samsungin/playlist.m3u8",
       "drm": null
     },
     {
