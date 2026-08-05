@@ -2,6 +2,22 @@
   "channels": [
     
     {
+      "id": "star-2",
+      "name": "Star Sport 2 IND",
+      "category": "Sports",
+      "logo": "https://img-cdn.publive.online/fit-in/1200x675/filters:format(webp)/bmi/media/media_files/2025/03/03/jwfEJ9xxzy38oxUqueE1.jpg",
+      "background": "https://img-cdn.publive.online/fit-in/1200x675/filters:format(webp)/bmi/media/media_files/2025/03/03/jwfEJ9xxzy38oxUqueE1.jpg",
+      "status": "Live",
+      "streamType": "dash-cookies",
+      "streamUrl": "https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_1_MOB/WDVLive/index.mpd",
+      "cookie": "__hdnea__=st=1785926435~exp=1785948035~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=16b15ba203222e50ec5a34a19ad0ce6cc39313a5bf1a9b0fbc702bb0823560f0",
+      "drm": {
+        "type": "clearkey",
+        "keyId":"9457eb90129456fa8ea95e10ba4ac51e",
+        "key": "e620a970cea474c491ac78ae71a4d764"
+      }
+    },
+    {
       "id": "sony-ten-1",
       "name": "Sony Ten 1",
       "category": "Sports",
