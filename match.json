@@ -1,35 +1,35 @@
 {
   "matches": [
     {
-      "id": "cric-ind-pak-2026",
+      "id": "the-hundred",
       "sport": "Cricket",
-      "title": "India vs Pakistan",
-      "subtitle": "ICC Tournament \u2022 Group Stage",
-      "teamA": { "name": "India", "shortCode": "IND", "logo": "https://dummyimage.com/120x120/1a73e8/ffffff.png&text=IND" },
-      "teamB": { "name": "Pakistan", "shortCode": "PAK", "logo": "https://dummyimage.com/120x120/0f9d58/ffffff.png&text=PAK" },
-      "poster": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202602/ind-vs-pak--t20-world-cup-143443189-16x9_0.jpg?VersionId=g7zUfKHmK4V1QZEXHGLiwQXw5iefq99B&size=690:388",
+      "title": "The Hundred 2026",
+      "subtitle": "Organized by the England and Wales Cricket Board (ECB)",
+      "teamA": { "name": "TH", "shortCode": "TH", "logo": "https://dummyimage.com/120x120/1a73e8/ffffff.png&text=TH" },
+      "teamB": { "name": "TH", "shortCode": "TH", "logo": "https://dummyimage.com/120x120/0f9d58/ffffff.png&text=TH" },
+      "poster": "https://e0.365dm.com/22/07/2048x1152/sky-sports-the-hundred-cricket_5847963.jpg?20220728140542",
       "status": "LIVE",
       "startTime": "2026-08-02T14:00:00Z",
       "channels": [
         {
-          "id": "ind-pak-ch1",
-          "name": "Star Sports 1",
+          "id": "willow-ios",
+          "name": "Willow Sports",
           "language": "English",
           "streamType": "hls",
           "streamUrl": "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
           "drm": null
         },
         {
-          "id": "ind-pak-ch2",
-          "name": "Star Sports 1 Hindi",
-          "language": "Hindi",
+          "id": "star-sports-2-sd",
+          "name": "Star Sports 2 SD",
+          "language": "English",
           "streamType": "hls",
           "streamUrl": "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
           "drm": null
         },
         {
-          "id": "ind-pak-ch3",
-          "name": "Star Sports Select",
+          "id": "star-sports-2-hd",
+          "name": "Star Sports 2 HD",
           "language": "English",
           "streamType": "hls",
           "streamUrl": "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
