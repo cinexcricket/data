@@ -8,7 +8,7 @@
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/d775ae813cdc8095ee6b82b227a986cd.png",
       "background": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/d775ae813cdc8095ee6b82b227a986cd.png",
       "status": "Live",
-      "streamType": "dash",
+      "streamType": "dash-cookies",
       "streamUrl": "https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_1_MOB/WDVLive/index.mpd",
       "cookie": "__hdnea__=st=1785912812~exp=1785934412~acl=/*~hmac=11b6696fb1d54d13e7d3a88ce04797a96709011e30ebaf072ec1a0b0111bb946",
       "drm": {
