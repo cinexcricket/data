@@ -25,6 +25,7 @@
           "language": "English",
           "streamType": "dash-cookies",
           "streamUrl": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd",
+          "cookie": "__hdnea__=st=1785926435~exp=1785948035~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=16b15ba203222e50ec5a34a19ad0ce6cc39313a5bf1a9b0fbc702bb0823560f0",
           "drm": {
             "type": "clearkey",
             "keyId": "9457eb90129456fa8ea95e10ba4ac51e",
