@@ -5,16 +5,16 @@
       "id": "star-2",
       "name": "Star Sports 2",
       "category": "Sports",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoi-fbFF8H025oAf7GB58BlU7tsrtG_EcmVqZCpz6xYIC18q9Gp_T5M2jA&s=10",
-      "background": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoi-fbFF8H025oAf7GB58BlU7tsrtG_EcmVqZCpz6xYIC18q9Gp_T5M2jA&s=10",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/d775ae813cdc8095ee6b82b227a986cd.png",
+      "background": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/d775ae813cdc8095ee6b82b227a986cd.png",
       "status": "Live",
       "streamType": "dash",
-      "streamUrl": "https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd",
-      "cookie": "__hdnea__=st=1785847357~exp=1785868957~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=fecf034ecc584a2c91efe670775a4e7aa360161f384e95ab84e208a0e864e259",
+      "streamUrl": "https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_1_MOB/WDVLive/index.mpd",
+      "cookie": "__hdnea__=st=1785912812~exp=1785934412~acl=/*~hmac=11b6696fb1d54d13e7d3a88ce04797a96709011e30ebaf072ec1a0b0111bb946",
       "drm": {
         "type": "clearkey",
-        "keyId": "9457eb90129456fa8ea95e10ba4ac51e",
-        "key": "e620a970cea474c491ac78ae71a4d764"
+        "keyId": "3394be91407c5fe99d784d2f2d6d4a12",
+      "key": "58665e1df41f9f22ed73c56384bb3f51"
       }
     },
     {
