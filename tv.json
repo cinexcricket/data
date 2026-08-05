@@ -48,6 +48,51 @@
       }
     },
     {
+      "id": "zee-tv",
+      "name": "Zee Tv",
+      "category": "Entertainment",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0Rsszy4Zhz986GGMgtNbncDsTdIbxxicBhAe1o4ZNUQ&s=10",
+      "background": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0Rsszy4Zhz986GGMgtNbncDsTdIbxxicBhAe1o4ZNUQ&s=10",
+      "status": "Live",
+      "streamType": "dash",
+      "streamUrl": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd",
+      "drm": {
+        "type": "clearkey",
+        "keyId": "65c3633157574361b191059e46e72968",    
+        "key": "78450b11381340c297d96c13183d3744"
+      }
+    },
+    {
+      "id": "&-tv",
+      "name": "& Tv",
+      "category": "Entertainment",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCpLHU-jjY_m_-XWwQ03oAV8AQ3aXQrZdRq0nQ2NPeeKjHqFW7TiXspw0&s=10",
+      "background": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCpLHU-jjY_m_-XWwQ03oAV8AQ3aXQrZdRq0nQ2NPeeKjHqFW7TiXspw0&s=10",
+      "status": "Live",
+      "streamType": "dash",
+      "streamUrl": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd",
+      "drm": {
+        "type": "clearkey",
+        "keyId": "67d18634ccb04875875c60fb8d9caaba",    
+        "key": "99a66471c09e4b8a8dc39a0de6803f75" 
+      }
+    },
+    {
+      "id": "zee-anmol",
+      "name": "Zee Anmol",
+      "category": "Entertainment",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqId9RYr41o8tqOYho2AbJEfDmxFL6EfoWPtuzstwrWbNk2w_F2WwHY6Fv&s=10",
+      "background": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqId9RYr41o8tqOYho2AbJEfDmxFL6EfoWPtuzstwrWbNk2w_F2WwHY6Fv&s=10",
+      "status": "Live",
+      "streamType": "dash",
+      "streamUrl": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol/default/manifest.mpd",
+      "drm": {
+        "type": "clearkey",
+        "keyId": "4023613457774cbeb71a62c339970e63",    
+        "key": "1c3e9fce5f014542be9cd1f749181204" 
+      }
+    },
+    {
       "id": "yrf-music",
       "name": "YRF Music",
       "category": "Music",
@@ -146,6 +191,39 @@
       "status": "LIVE",
       "streamType": "hls",
       "streamUrl": "https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8",
+      "drm": null
+    },
+    {
+      "id": "india-todat",
+      "name": "India Today",
+      "category": "News",
+      "logo": "https://akm-img-a-in.tosshub.com/indiatoday/images/livetv/indiaToday.jpg",
+      "background": "https://akm-img-a-in.tosshub.com/indiatoday/images/livetv/indiaToday.jpg",
+      "status": "LIVE",
+      "streamType": "hls",
+      "streamUrl": "https://feeds.intoday.in/hltapps/api/master.m3u8",
+      "drm": null
+    },
+    {
+      "id": "tv-9",
+      "name": "TV9 Bharatvarsh",
+      "category": "News",
+      "logo": "https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/buimcp.png",
+      "background": "https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/buimcp.png",
+      "status": "LIVE",
+      "streamType": "hls",
+      "streamUrl": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_720p/chunks.m3u8",
+      "drm": null
+    },
+    {
+      "id": "zee-bharat",
+      "name": "Zee Bharat",
+      "category": "News",
+      "logo": "https://yt3.googleusercontent.com/QCKjEhgbRnhNTcPeTe5-uAYnLyf0OdDpYPZSgLufVeOi1LTygW2XIli33YXGohWphxWlAQRVCQ=s900-c-k-c0x00ffffff-no-rj",
+      "background": "https://yt3.googleusercontent.com/QCKjEhgbRnhNTcPeTe5-uAYnLyf0OdDpYPZSgLufVeOi1LTygW2XIli33YXGohWphxWlAQRVCQ=s900-c-k-c0x00ffffff-no-rj",
+      "status": "LIVE",
+      "streamType": "hls",
+      "streamUrl": "https://d1hp2yai3k4ork.cloudfront.net/index_4.m3u8",
       "drm": null
     }
   ]
