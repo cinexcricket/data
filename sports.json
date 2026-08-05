@@ -1,5 +1,22 @@
 {
   "channels": [
+    
+    {
+      "id": "star-2",
+      "name": "Star Sports 2",
+      "category": "Sports",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoi-fbFF8H025oAf7GB58BlU7tsrtG_EcmVqZCpz6xYIC18q9Gp_T5M2jA&s=10",
+      "background": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoi-fbFF8H025oAf7GB58BlU7tsrtG_EcmVqZCpz6xYIC18q9Gp_T5M2jA&s=10",
+      "status": "Live",
+      "streamType": "dash",
+      "streamUrl": "https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd",
+      "cookie": "__hdnea__=st=1785847357~exp=1785868957~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=fecf034ecc584a2c91efe670775a4e7aa360161f384e95ab84e208a0e864e259",
+      "drm": {
+        "type": "clearkey",
+        "keyId": "9457eb90129456fa8ea95e10ba4ac51e",
+        "key": "e620a970cea474c491ac78ae71a4d764"
+      }
+    },
     {
       "id": "star-sports-1",
       "name": "Star Sports 1",
