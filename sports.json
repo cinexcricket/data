@@ -2,6 +2,17 @@
   "channels": [
     
     {
+      "id": "willow-sports-ios",
+      "name": "Willow Sports IOS",
+      "category": "Cricket",
+      "logo": "https://assets.goal.com/images/v3/blt4aeb827b3c526988/Willow-Sports%20logo.jpg?auto=webp&format=pjpg&width=3840&quality=60",
+      "background": "https://assets.goal.com/images/v3/blt4aeb827b3c526988/Willow-Sports%20logo.jpg?auto=webp&format=pjpg&width=3840&quality=60",
+      "status": "LIVE",
+      "streamType": "hls",
+      "streamUrl": "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
+      "drm": null
+    },
+    {
       "id": "star-2",
       "name": "Star Sport 2 IND",
       "category": "Sports",
@@ -33,17 +44,7 @@
       "key": "58665e1df41f9f22ed73c56384bb3f51"
       }
     },
-    {
-      "id": "willow-sports-ios",
-      "name": "Willow Sports IOS",
-      "category": "Cricket",
-      "logo": "https://assets.goal.com/images/v3/blt4aeb827b3c526988/Willow-Sports%20logo.jpg?auto=webp&format=pjpg&width=3840&quality=60",
-      "background": "https://assets.goal.com/images/v3/blt4aeb827b3c526988/Willow-Sports%20logo.jpg?auto=webp&format=pjpg&width=3840&quality=60",
-      "status": "LIVE",
-      "streamType": "hls",
-      "streamUrl": "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
-      "drm": null
-    },
+    
     {
       "id": "star-sports-2",
       "name": "Star Sports 2",
