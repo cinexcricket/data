@@ -11,6 +11,15 @@
       "status": "LIVE",
       "startTime": "2026-08-02T14:00:00Z",
       "channels": [
+        
+        {
+          "id": "willow-ios",
+          "name": "Willow Sports",
+          "language": "English",
+          "streamType": "hls",
+          "streamUrl": "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
+          "drm": null
+        },
         {
           "id": "star-2-sd",
           "name": "Star Sport-2",
@@ -24,14 +33,7 @@
             "key": "e620a970cea474c491ac78ae71a4d764"
           }
         },
-        {
-          "id": "willow-ios",
-          "name": "Willow Sports",
-          "language": "English",
-          "streamType": "hls",
-          "streamUrl": "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
-          "drm": null
-        },
+        
         
         {
           "id": "star-sports-2-hd",
