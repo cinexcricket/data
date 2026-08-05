@@ -136,6 +136,17 @@
       "streamType": "hls",
       "streamUrl": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8",
       "drm": null
+    },
+    {
+      "id": "zee-newws",
+      "name": "Zee News",
+      "category": "News",
+      "logo": "https://india.mom-gmr.org/uploads/tx_lfrogmom/media/16518-1592_import.png",
+      "background": "https://india.mom-gmr.org/uploads/tx_lfrogmom/media/16518-1592_import.png",
+      "status": "LIVE",
+      "streamType": "hls",
+      "streamUrl": "https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8",
+      "drm": null
     }
   ]
 }
