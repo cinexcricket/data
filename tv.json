@@ -12,7 +12,8 @@
       "streamType": "hls",
       "streamUrl": "https://allinonereborn2.online/sony-new/playlists/sony_hd.m3u8",
       "drm": null
-    },{
+    },
+    {
       "id": "zee-cinema",
       "name": "Zee Cinema",
       "category": "Entertainment",
