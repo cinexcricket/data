@@ -20,13 +20,17 @@
           "drm": null
         },
         {
-          "id": "star-sports-2-sd",
-          "name": "Star Sports 2 SD",
+          "id": "star-2-sd",
+          "name": "Star Sport-2",
           "language": "English",
-          "streamType": "hls",
-          "streamUrl": "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
-          "drm": null
-        },
+          "streamType": "dash-cookies",
+          "streamUrl": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd",
+          "drm": {
+            "type": "clearkey",
+            "keyId": "9457eb90129456fa8ea95e10ba4ac51e",
+            "key": "e620a970cea474c491ac78ae71a4d764"
+          }
+        }
         {
           "id": "star-sports-2-hd",
           "name": "Star Sports 2 HD",
