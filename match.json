@@ -57,13 +57,13 @@
       "status": "Live",
       "channels": [
         {
-          "id": "fancode",
+          "id": "fancode IND",
           "name": "Fancode",
           "language": "English",
           "streamType": "hls",
           "streamUrl": "https://fuck-you.kasin-tv.com/fc/proxy.php/https://allinonereborn2.online/fctest/playlists/match_4247975/english.m3u8",
           "drm": null
-        },
+        }
       ]
     },
     {
