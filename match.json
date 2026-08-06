@@ -50,26 +50,7 @@
         }
       ]
     },
-    {
-      "id": "delhi-premier-league",
-      "sport": "Cricket",
-      "title": "Delhi Premier League",
-      "subtitle": " Organised by the Delhi & District Cricket Association (DDCA)",
-      "teamA": { "name": "SD", "shortCode": "SD", "logo": "https://dummyimage.com/120x120/fbbc04/000000.png&text=SD" },
-      "teamB": { "name": "OD", "shortCode": "OD", "logo": "https://dummyimage.com/120x120/db4437/ffffff.png&text=OD" },
-      "poster": "https://sportzpower.com/wp-content/uploads/2025/07/Delhi-Premier-League-2025.png",
-      "status": "Live",
-      "channels": [
-        {
-          "id": "fancode IND",
-          "name": "Fancode",
-          "language": "English",
-          "streamType": "hls",
-          "streamUrl": "https://fuck-you.kasin-tv.com/fc/proxy.php/https://allinonereborn2.online/fctest/playlists/match_4247975/english.m3u8",
-          "drm": null
-        }
-      ]
-    },
+    
     {
       "id": "football-real-barca-2026",
       "sport": "Football",
