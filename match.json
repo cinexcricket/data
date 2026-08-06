@@ -50,9 +50,9 @@
       "id": "delhi-premier-league",
       "sport": "Cricket",
       "title": "Delhi Premier League",
-      "subtitle": "The Ashes \u2022 3rd Test",
-      "teamA": { "name": "Australia", "shortCode": "AUS", "logo": "https://dummyimage.com/120x120/fbbc04/000000.png&text=AUS" },
-      "teamB": { "name": "England", "shortCode": "ENG", "logo": "https://dummyimage.com/120x120/db4437/ffffff.png&text=ENG" },
+      "subtitle": " Organised by the Delhi & District Cricket Association (DDCA)",
+      "teamA": { "name": "SD", "shortCode": "SD", "logo": "https://dummyimage.com/120x120/fbbc04/000000.png&text=SD" },
+      "teamB": { "name": "OD", "shortCode": "OD", "logo": "https://dummyimage.com/120x120/db4437/ffffff.png&text=OD" },
       "poster": "https://sportzpower.com/wp-content/uploads/2025/07/Delhi-Premier-League-2025.png",
       "status": "Live",
       "channels": [
