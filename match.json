@@ -37,12 +37,16 @@
       }
     },
         {
-          "id": "star-sports-2-hd",
-          "name": "Star Sports 2 HD",
+          "id": "willow-cricbuzz",
+          "name": "Willow Cricbuzz",
           "language": "English",
-          "streamType": "hls",
-          "streamUrl": "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
-          "drm": null
+          "streamType": "dash",
+          "streamUrl": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hmyciwvirh/out/v1/5e04c4a3116b4e848f99a37fefb996d0/cenc.mpd",
+          "drm": {
+            "type": "clearkey",
+            "keyId": "56f46d806961b2b8b30d208b713c5061",
+            "key": "dc474a96d57b2d143f477b4d5ade9ef0"
+          }
         }
       ]
     },
