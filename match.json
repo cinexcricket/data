@@ -80,27 +80,7 @@
         }
       ]
     },
-    {
-      "id": "kabaddi-mumbai-bengal-2026",
-      "sport": "Kabaddi",
-      "title": "Mumbai vs Bengal",
-      "subtitle": "Pro Kabaddi League \u2022 Match 42",
-      "teamA": { "name": "Mumbai", "shortCode": "MUM", "logo": "https://dummyimage.com/120x120/f4b400/000000.png&text=MUM" },
-      "teamB": { "name": "Bengal", "shortCode": "BEN", "logo": "https://dummyimage.com/120x120/4285f4/ffffff.png&text=BEN" },
-      "poster": "https://dummyimage.com/800x450/111827/ffffff.png&text=MUM+vs+BEN",
-      "status": "LIVE",
-      "startTime": "2026-08-02T13:00:00Z",
-      "channels": [
-        {
-          "id": "mum-ben-ch1",
-          "name": "Star Sports Pro Kabaddi",
-          "language": "Hindi",
-          "streamType": "hls",
-          "streamUrl": "https://test-streams.mux.dev/test_001/stream.m3u8",
-          "drm": null
-        }
-      ]
-    },
+    
     {
       "id": "badminton-finals-2026",
       "sport": "Badminton",
