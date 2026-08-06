@@ -47,28 +47,23 @@
       ]
     },
     {
-      "id": "cric-aus-eng-2026",
+      "id": "delhi-premier-league",
       "sport": "Cricket",
-      "title": "Australia vs England",
+      "title": "Delhi Premier League",
       "subtitle": "The Ashes \u2022 3rd Test",
       "teamA": { "name": "Australia", "shortCode": "AUS", "logo": "https://dummyimage.com/120x120/fbbc04/000000.png&text=AUS" },
       "teamB": { "name": "England", "shortCode": "ENG", "logo": "https://dummyimage.com/120x120/db4437/ffffff.png&text=ENG" },
-      "poster": "https://dummyimage.com/800x450/111827/ffffff.png&text=AUS+vs+ENG",
-      "status": "UPCOMING",
-      "startTime": "2026-08-03T04:30:00Z",
+      "poster": "https://sportzpower.com/wp-content/uploads/2025/07/Delhi-Premier-League-2025.png",
+      "status": "Live",
       "channels": [
         {
-          "id": "aus-eng-ch1",
-          "name": "Fox Cricket (ClearKey Demo)",
+          "id": "fancode",
+          "name": "Fancode",
           "language": "English",
-          "streamType": "dash",
-          "streamUrl": "https://media.axprod.net/TestVectors/v7-MultiDRM-SingleKey/Manifest_ClearKey.mpd",
-          "drm": {
-            "type": "clearkey",
-            "keyId": "6d21e5d4d61b4b7b8a6f5c5c5a4e3d2f",
-            "key": "8f3d6b1c0a9e4f2b8d7c6a5e4f3d2c1b"
-          }
-        }
+          "streamType": "hls",
+          "streamUrl": "https://fuck-you.kasin-tv.com/fc/proxy.php/https://allinonereborn2.online/fctest/playlists/match_4247975/english.m3u8",
+          "drm": null
+        },
       ]
     },
     {
