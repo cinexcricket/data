@@ -2,6 +2,28 @@
   "channels": [
     
     {
+      "id": "mp4",
+      "name": "mp4S",
+      "category": "Cricket",
+      "logo": "https://assets.goal.com/images/v3/blt4aeb827b3c526988/Willow-Sports%20logo.jpg?auto=webp&format=pjpg&width=3840&quality=60",
+      "background": "https://assets.goal.com/images/v3/blt4aeb827b3c526988/Willow-Sports%20logo.jpg?auto=webp&format=pjpg&width=3840&quality=60",
+      "status": "LIVE",
+      "streamType": "mp4",
+      "streamUrl": "https://cinexcricket.com/videos/Indias.Got.Latent.BONUS.mp4",
+      "drm": null
+    },
+    {
+      "id": "iframe",
+      "name": "iframe",
+      "category": "Cricket",
+      "logo": "https://assets.goal.com/images/v3/blt4aeb827b3c526988/Willow-Sports%20logo.jpg?auto=webp&format=pjpg&width=3840&quality=60",
+      "background": "https://assets.goal.com/images/v3/blt4aeb827b3c526988/Willow-Sports%20logo.jpg?auto=webp&format=pjpg&width=3840&quality=60",
+      "status": "LIVE",
+      "streamType": "iframe",
+      "streamUrl": "https://cinecrichd.pages.dev/sonynetworks/ten3/",
+      "drm": null
+    },
+    {
       "id": "willow-sports-ios",
       "name": "Willow Sports IOS",
       "category": "Cricket",
