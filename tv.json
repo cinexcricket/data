@@ -94,7 +94,7 @@
       }
     },
     {
-      "id": "yrf-music",
+      "id": "yrf",
       "name": "YRF Music",
       "category": "Music",
       "logo": "https://yt3.googleusercontent.com/nf15u1K12VXgBLh5HTf0asDF5Fc36RsUICRi8xY1Cs0QhAL_jmtW07wAUdRzrYDBKwv_KIa09Q=s900-c-k-c0x00ffffff-no-rj",
@@ -105,7 +105,7 @@
       "drm": null
     },
     {
-      "id": "b4u-music",
+      "id": "b4u",
       "name": "B4U Music",
       "category": "Music",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/e41d7120121fbc7f3fe1f07b30c737d2.png",
@@ -116,7 +116,7 @@
       "drm": null
     },
     {
-      "id": "9x-jalwa",
+      "id": "9x",
       "name": "9x Jalwa",
       "category": "Music",
       "logo": "https://yt3.googleusercontent.com/ytc/AIdro_m6XPXFgtJwZtiGgJ8hAG8uYP64x3rXyAMCZq7vRlBCtss=w544-c-h544-k-c0x00ffffff-no-l90-rj",
@@ -127,7 +127,7 @@
       "drm": null
     },
     {
-      "id": "music-india",
+      "id": "musicindia",
       "name": "Music India",
       "category": "Music",
       "logo": "https://pbs.twimg.com/profile_images/618036953/music_india_400x400.png",
@@ -149,7 +149,7 @@
       "drm": null
     },
     {
-      "id": "saga-music",
+      "id": "sagamusic",
       "name": "Saga-Music",
       "category": "Music",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDESekyEVwd-2kmUQjL9qxfTzhM9FQ2vTAdG9nkUTCFZ931-pgiBqTGMk&s=10",
@@ -170,6 +170,17 @@
       "status": "LIVE",
       "streamType": "hls",
       "streamUrl": "https://cdn2.in/7xPunjabihls/live.m3u8",
+      "drm": null
+    },
+    {
+      "id": "desi-tashan",
+      "name": "Desi Tashan",
+      "category": "Music",
+      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Desi_Tashan_TV.png",
+      "background": "https://yt3.googleusercontent.com/ytc/AIdro_m_uBPKUYDiKVEegmqABzX_IRoDYwaYyhoXO80WOgmvUr3x=s900-c-k-c0x00ffffff-no-rj",
+      "status": "LIVE",
+      "streamType": "hls",
+      "streamUrl": "https://cloudcdn.in/livetv/DesiTashan/index.m3u8",
       "drm": null
     },
     {
