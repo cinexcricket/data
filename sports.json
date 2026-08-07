@@ -1,37 +1,53 @@
 {
   "channels": [
     
+    
     {
-      "id": "mp4",
-      "name": "mp4S",
+      "id": "willow-sports-s1",
+      "name": "Willow Sports S1",
       "category": "Cricket",
       "logo": "https://assets.goal.com/images/v3/blt4aeb827b3c526988/Willow-Sports%20logo.jpg?auto=webp&format=pjpg&width=3840&quality=60",
       "background": "https://assets.goal.com/images/v3/blt4aeb827b3c526988/Willow-Sports%20logo.jpg?auto=webp&format=pjpg&width=3840&quality=60",
-      "status": "LIVE",
-      "streamType": "mp4",
-      "streamUrl": "https://cinexcricket.com/videos/Indias.Got.Latent.BONUS.mp4",
-      "drm": null
+      "status": "Live",
+      "streamType": "dash",
+      "streamUrl": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+      "drm": {
+        "type": "clearkey",
+        "keyId": "290e09c837da78d5cd961978d390515c",
+        "key": "b748836c71e6a4ca68ef5b5652db6247"
+      }
     },
     {
-      "id": "iframe",
-      "name": "iframe",
-      "category": "Cricket",
-      "logo": "https://assets.goal.com/images/v3/blt4aeb827b3c526988/Willow-Sports%20logo.jpg?auto=webp&format=pjpg&width=3840&quality=60",
-      "background": "https://assets.goal.com/images/v3/blt4aeb827b3c526988/Willow-Sports%20logo.jpg?auto=webp&format=pjpg&width=3840&quality=60",
-      "status": "LIVE",
-      "streamType": "iframe",
-      "streamUrl": "https://drive.google.com/file/d/1jvKq0kdXS3Rn0RHCHNAMpqgcsC48md5_/preview",
-      "drm": null
-    },
-    {
-      "id": "willow-sports-ios",
-      "name": "Willow Sports IOS",
+      "id": "willows2",
+      "name": "Willow Sports S2",
       "category": "Cricket",
       "logo": "https://assets.goal.com/images/v3/blt4aeb827b3c526988/Willow-Sports%20logo.jpg?auto=webp&format=pjpg&width=3840&quality=60",
       "background": "https://assets.goal.com/images/v3/blt4aeb827b3c526988/Willow-Sports%20logo.jpg?auto=webp&format=pjpg&width=3840&quality=60",
       "status": "LIVE",
       "streamType": "hls",
       "streamUrl": "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
+      "drm": null
+    },
+    {
+      "id": "sony-1",
+      "name": "Sony Ten 1",
+      "category": "Sports",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/d775ae813cdc8095ee6b82b227a986cd.png",
+      "background": "https://assets.goal.com/images/v3/blt4aeb827b3c526988/Willow-Sports%20logo.jpg?auto=webp&format=pjpg&width=3840&quality=60",
+      "status": "LIVE",
+      "streamType": "iframe",
+      "streamUrl": "https://jioforcine.pages.dev/?id=STEN1",
+      "drm": null
+    },
+    {
+      "id": "sony-2",
+      "name": "Sony Ten 2",
+      "category": "Sports",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/9c0fc822845789953d3be9c29bb6f0cd.png",
+      "background": "https://assets.goal.com/images/v3/blt4aeb827b3c526988/Willow-Sports%20logo.jpg?auto=webp&format=pjpg&width=3840&quality=60",
+      "status": "LIVE",
+      "streamType": "iframe",
+      "streamUrl": "https://jioforcine.pages.dev/?id=STEN1",
       "drm": null
     },
     {
