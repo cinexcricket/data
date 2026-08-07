@@ -1,6 +1,75 @@
 {
   "matches": [
     {
+      "id": "ind-sl",
+      "sport": "Cricket",
+      "title": "India vs Srilanka Test",
+      "subtitle": "Warm-Up Match",
+      "teamA": { "name": "IND", "shortCode": "IND", "logo": "https://dummyimage.com/120x120/1a73e8/ffffff.png&text=IND" },
+      "teamB": { "name": "SL", "shortCode": "SL", "logo": "https://dummyimage.com/120x120/0f9d58/ffffff.png&text=SL" },
+      "poster": "https://i.postimg.cc/Nf5Ds2LZ/photo-2026-08-07-09-43-32.jpg",
+      "status": "LIVE",
+      "startTime": "2026-08-02T14:00:00Z",
+      "channels": [
+        
+        
+        {
+      "id": "sont-ten-hindi",
+      "name": "Sony Ten HIN",
+      "category": "Sports",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/c063708662593e2a313084f6c0a3f496.png",
+      "background": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/c063708662593e2a313084f6c0a3f496.png",
+      "status": "Live",
+      "streamType": "dash-cookies",
+      "streamUrl": "https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_HD_MOB/WDVLive/index.mpd",
+      "cookie": "__hdnea__=st=1786074155~exp=1786095755~acl=/*~hmac=61880587c23d6a2b6627c9176dc55bcb92e65add548a29e9b852f5aba20a70c0",
+      "drm": {
+        "type": "clearkey",
+        "keyId":"3525c924e54154b39533d86b1c7a428a",
+        "key": "8548b566fc6608a7d3bd601ee5f3d889"
+      }
+    },
+    {
+      "id": "sony-ten-h2",
+      "name": "Sony Ten Hindi S2",
+      "category": "Cricket",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/c063708662593e2a313084f6c0a3f496.png",
+      "background": "https://assets.goal.com/images/v3/blt4aeb827b3c526988/Willow-Sports%20logo.jpg?auto=webp&format=pjpg&width=3840&quality=60",
+      "status": "LIVE",
+      "streamType": "hls",
+      "streamUrl": "https://dishmt.slivcdn.com/hls/live/2020592/TEN3SD/hdntl=exp=1786134199~acl=/*~id=bb9f8b1c-cc60-48d0-a797-6c1230d2d44b~data=hdntl~hmac=965ac20b8c67f4b718abe80d6186a3b40dd8687d1b99d5e624597d05a08ae858/master_412.m3u8?aka_me_session_id=AAAAAAAAAAC3PnZqAAAAAD0ruvTgUd3vFQCp3fVSbEYerLS+kpZQTPMXLfyyfSQnfYY9fXPMI9Qh0VDYe1csbfvta8Vr7dsz&aka_media_format_type=hls",
+      "drm": null
+    },
+    {
+      "id": "sony-ten-eng2",
+      "name": "Sony Ten ENG S1",
+      "category": "Cricket",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/7d0d368840908947f0e3bb344c29c53f.png",
+      "background": "https://assets.goal.com/images/v3/blt4aeb827b3c526988/Willow-Sports%20logo.jpg?auto=webp&format=pjpg&width=3840&quality=60",
+      "status": "LIVE",
+      "streamType": "hls",
+      "streamUrl": "https://dishmt.slivcdn.com/hls/live/2011739/TEN1SD/hdntl=exp=1786134199~acl=/*~id=bb9f8b1c-cc60-48d0-a797-6c1230d2d44b~data=hdntl~hmac=965ac20b8c67f4b718abe80d6186a3b40dd8687d1b99d5e624597d05a08ae858/master_412.m3u8?aka_me_session_id=AAAAAAAAAAC3PnZqAAAAAD0ruvTgUd3vFQCp3fVSbEYerLS+kpZQTPMXLfyyfSQnfYY9fXPMI9Qh0VDYe1csbfvta8Vr7dsz&aka_media_format_type=hls",
+      "drm": null
+    },
+    {
+      "id": "sont-ten-eng",
+      "name": "Sony Ten ENG S2",
+      "category": "Sports",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/7d0d368840908947f0e3bb344c29c53f.png",
+      "background": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/7d0d368840908947f0e3bb344c29c53f.png",
+      "status": "Live",
+      "streamType": "dash-cookies",
+      "streamUrl": "https://jiotvmblive.cdn.jio.com/bpk-tv/Six_HD_MOB/WDVLive/index.mpd",
+      "cookie": "__hdnea__=st=1786072610~exp=1786094210~acl=/*~hmac=8f24c062d48dad42edf16121c6984a98fef2397d7db63a5bda2c7b0b93964608",
+      "drm": {
+        "type": "clearkey",
+        "keyId":"8cb7b40cefe053ea91895e3194bb9912",
+        "key": "467cf6d740b7212fcfc648644fb79943"
+      }
+    }
+      ]
+    },
+    {
       "id": "the-hundred",
       "sport": "Cricket",
       "title": "The Hundred 2026",
@@ -13,13 +82,27 @@
       "channels": [
         
         {
-          "id": "willow-ios",
-          "name": "Willow Sports",
-          "language": "English",
-          "streamType": "hls",
-          "streamUrl": "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
-          "drm": null
+      "id": "willow-sports-s1",
+      "name": "Willow Sports S1",
+      "logo": "https://assets.goal.com/images/v3/blt4aeb827b3c526988/Willow-Sports%20logo.jpg?auto=webp&format=pjpg&width=3840&quality=60",
+      "streamType": "dash",
+      "streamUrl": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+      "drm": {
+        "type": "clearkey",
+        "keyId": "290e09c837da78d5cd961978d390515c",
+        "key": "b748836c71e6a4ca68ef5b5652db6247"
+           }
         },
+        {
+      "id": "star-2 IND",
+      "name": "Star Sport 2 IND",
+      "category": "Sports",
+      "logo": "https://img-cdn.publive.online/fit-in/1200x675/filters:format(webp)/bmi/media/media_files/2025/03/03/jwfEJ9xxzy38oxUqueE1.jpg",
+      "background": "https://img-cdn.publive.online/fit-in/1200x675/filters:format(webp)/bmi/media/media_files/2025/03/03/jwfEJ9xxzy38oxUqueE1.jpg",
+      "status": "Live",
+      "streamType": "iframe",
+      "streamUrl": "https://cinearenawebapp.pages.dev/star2hd/"
+    },
         {
           "id": "willow-cricbuzz",
           "name": "Willow Cricbuzz",
@@ -31,23 +114,8 @@
             "keyId": "56f46d806961b2b8b30d208b713c5061",
             "key": "dc474a96d57b2d143f477b4d5ade9ef0"
           }
-        },
-        {
-      "id": "star-2",
-      "name": "Star Sport 2 IND",
-      "category": "Sports",
-      "logo": "https://img-cdn.publive.online/fit-in/1200x675/filters:format(webp)/bmi/media/media_files/2025/03/03/jwfEJ9xxzy38oxUqueE1.jpg",
-      "background": "https://img-cdn.publive.online/fit-in/1200x675/filters:format(webp)/bmi/media/media_files/2025/03/03/jwfEJ9xxzy38oxUqueE1.jpg",
-      "status": "Live",
-      "streamType": "dash-cookies",
-      "streamUrl": "https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_1_MOB/WDVLive/index.mpd",
-      "cookie": "__hdnea__=st=1785934143~exp=1785955743~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=ccc8fe6120a97ed8678ed60ee4e0844ea23ff682670b6aab7d8ddaedd416011d",
-      "drm": {
-        "type": "clearkey",
-        "keyId":"9457eb90129456fa8ea95e10ba4ac51e",
-        "key": "e620a970cea474c491ac78ae71a4d764"
-      }
-    }
+        }
+        
       ]
     },
     
